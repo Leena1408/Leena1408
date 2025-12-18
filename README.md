@@ -6,14 +6,10 @@
 
 ---
 
-## 🚀 Skills
-- Frontend: React, HTML, CSS, JavaScript, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code
-- Others: REST APIs, JWT Authentication
+## 🚀 Skills:-
+React, HTML, CSS, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Git, GitHub, VS Code, REST APIs, JWT Authentication
 
----
+
 
 ## 📌 Projects
 ### 🛒 Electronics Ekaart 
