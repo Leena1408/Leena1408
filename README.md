@@ -2,7 +2,7 @@
 
 🎓 Final Year B.Tech (CSE) Student  
 💻 Full Stack MERN Developer  
-🌐 Passionate about Web Development & Problem Solving  
+🌐 Passionate about Full Stack MERN Development
 
 ---
 
@@ -16,31 +16,33 @@
 ---
 
 ## 📌 Projects
-### 🛒 E-commerce Website
-- React + Node.js + MongoDB
-- Authentication, Cart, Payment Integration
-- GitHub: https://github.com/your-link
-### Tech Stack
-- React
-- Node.js
-- MongoDB
+### 🛒 Electronics Ekaart 
 
-### Features
-- Login/Register
-- Product Listing
-- Cart System
-
-### How to Run
-npm install  
-npm start
+**Electronics-Ekart** is a full-stack **E-Commerce Web Application** built using the **MERN Stack** — **MongoDB**, **Express.js**, **React**, and **Node.js**. It allows users to browse products, add items to the cart, and simulate online shopping with a responsive user interface.
 
 
+## 🛠️ Technologies Used
 
-### 📊 Crypto Website
-- Live crypto prices using APIs
-- Charts & real-time data
+- **Frontend:** React.js, Vite  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **APIs & Tools:** REST API architecture, environment variables  
+- **Package Manager:** npm  
+- **Linting:** ESLint  
+- **Others:** CORS, JSON Web Tokens (optional for auth)
 
----
+
+## 🚀 Features
+
+✔️ Browse product listings  
+✔️ Add products to cart  
+✔️ Persistent frontend with React  
+✔️ RESTful backend built with Express and Node.js  
+✔️ Modular and scalable project structure
+
+
+- GitHub: https://github.com/Leena1408/Electronics-Ekart
+
 
 ## 📫 Contact Me
 - Email: leenasts@gmail.com
